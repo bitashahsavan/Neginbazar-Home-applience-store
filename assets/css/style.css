@@ -1,0 +1,159 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  #responsive-navigation{
+    display: none;
+}
+.hamberger-icon{
+    display: none;
+}
+
+.navbar-dark{
+    top: 80px!important;
+}
+.dark-menu{
+    direction: rtl;
+}
+.mainmenu{
+display: flex;
+    font-size: 18px;
+    height: 70px;
+    direction: rtl;
+   
+}
+.mainmenu ul li{
+    display: inline;
+    float: right;
+    margin-top: 18px;
+ }
+.mainmenu ul li a{
+  text-decoration:none ;
+  color: #797b80 !important;
+    width: 100%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+  
+}
+.mainmenu ul li a:hover{
+    background-color: #27274a;
+    color: #fff;
+    padding:  10px 15px 17px 15px;
+}
+.logo{
+    float: left;
+    width: 10%;
+    position: relative;
+   
+
+}
+.logo img{
+    width: 100%;
+    position: absolute;
+    left: -300px;
+    top: -35px;
+
+}
+.carousel-inner{
+    position: absolute !important;
+    top: 80px !important;
+
+}
+/*banner */
+.container{
+    position: relative;
+    display: flex;
+}
+.row{
+    float: right;
+    position: absolute;
+    top: 600px;
+}
+.img:hover{
+    opacity: 0.3;
+}
+.brands{
+    position: absolute;
+  top: 480px;
+  float: right;
+ 
+}
+  #brand:hover{
+      transform: scale(0.9);
+  }
+
+
+.image{
+    position: absolute;
+    top: 1100px;
+}
+.image:hover{
+    opacity: 0.3;
+}
+.title{
+    position: absolute;
+    top: 1200px;
+    right: 500px;
+    color:  #cca776;
+    font-size: 14px;
+   
+ 
+}
+.tv-vip{
+    position: absolute;
+    top:1300px ;
+    right: -50px;
+    width: 36%;
+    margin: 0.6px;
+    float: right;
+}
+.tv-vip img {
+   width: 100%;
+}
+.tv-vip:hover{
+    box-shadow:10px 10px 10px 10px  #797b80 ;
+}
+.caption{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+}
+.splide{
+    position: absolute;
+    top: 1500px;
+}
+
+.footer-1{
+    display: flex;
+    background-color: #27274a;
+}
+
+
+footer{
+    position: relative;
+}
+
+.main-footer{	
+    padding: 20px 0;
+    background-color: #252525 !important;
+    display: flex;
+    position: absolute;
+    top: 1600px;
+    width: 100%;
+    color: #fff;
+   
+}
+footer ul li  a{
+    text-decoration: none !important;
+}
+.social-footer2 ul li a{
+    text-decoration: none !important;
+}
+
+
