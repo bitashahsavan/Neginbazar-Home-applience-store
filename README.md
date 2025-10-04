@@ -1,4 +1,4 @@
-## NeginBazar store | Home appliance store
+## NeginBazar store | Home page appliance store
 - 📌 <a href="https://bitashahsavan.github.io/Neginbazar-Home-applience-store/" rel="nofollow">Demo</a>
 - 🙋‍♀️Developed by Bita Shahsavan
 - 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
